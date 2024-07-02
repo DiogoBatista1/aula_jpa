@@ -61,3 +61,30 @@ build/
 *.iml
 *.ipr
 *.iws
+
+
+# Ignore user directories and files
+/Application Data/
+/Cookies/
+/Local Settings/
+/My Documents/
+/NetHood/
+/PrintHood/
+/Recent/
+/SendTo/
+/Start Menu/
+/Templates/
+/AppData/
+/Contacts/
+/Downloads/
+/Favorites/
+/Links/
+/Music/
+/OneDrive/
+/Saved Games/
+/Searches/
+/Videos/
+*.lnk
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
